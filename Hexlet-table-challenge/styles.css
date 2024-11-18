@@ -1,0 +1,33 @@
+th{
+    background-color: #eee;
+    border-color: #ccc;
+    border-style: solid;
+    border-width: 1px;
+    font-weight: bold;
+    text-align: left;
+    padding: 8px;
+    font-family: 'Segoe UI';
+    font-size: 20px;
+}
+
+td{
+    border-color: #ccc;
+    border-style: solid;
+    border-width: 1px;
+    font-family: 'Segoe UI';
+    font-size: 20px;
+    font-weight: 500;
+    padding: 8px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+.uneven_row{
+    background-color: #eee;
+}
+
+header h1{
+    font-family: 'Segoe UI';
+}
