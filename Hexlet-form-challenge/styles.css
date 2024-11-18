@@ -1,0 +1,48 @@
+form input{
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border: 1px;
+    border-style: solid;
+    border-color: #ccc;
+    border-radius: 5px;   
+    box-sizing: border-box;
+}
+
+form label{
+    display: block;
+    font-weight: bold;
+    font-family: Calibri;
+}
+
+form{
+    margin: auto;
+    margin-top: 200px;
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+form h2{
+    margin-bottom: 20px;
+    font-family: Calibri;
+}
+
+#register_button{
+    padding: 10px;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    font-size: 16px;
+    font-family: Calibri;
+}
+
+body {
+    background-color: gainsboro;
+}
+
