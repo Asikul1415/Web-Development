@@ -1,0 +1,32 @@
+img{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    border-radius: 50%;
+    display: block;
+}
+
+.form_wrapper{
+    display: inline-block;
+}
+
+.forms{
+    margin-top: 14%;
+    margin-left: 20%;
+    margin-right: 15.5%;
+    /* I know it's not ideal, but it's best working option I've found so far  */
+}
+
+form{
+    width: 250px;
+    height: 400px;
+    padding: 10px;
+    margin: 25px;
+    border-radius: 1%;
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+body{
+    background-color: gainsboro;
+}
